@@ -31,3 +31,47 @@ body {
     color: whitesmoke;
     font-weight: 700;
 }
+
+.donation-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.donation-container h1 {
+    font-size: 45px;
+}
+
+.donation-container p {
+    font-size: 18px;
+    color: darkgray;
+}
+
+.flexible-container {
+    display: flex;
+    justify-content: center;
+}
+
+.donation-amount {
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 40px;
+    background-color: rgb(243, 243, 243);
+    margin-bottom: 50px;
+}
+
+#highlighted-amount {
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 1px solid #FF5959;
+}
+
+#donation-input {
+    width: 41%;
+    border: 0px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 40px;
+    height: 50px;
+    text-align: center;
+    font-size: 15px;
+
+}
