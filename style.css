@@ -1,3 +1,33 @@
 body {
     font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+
+.top-banner {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.top-banner h1 {
+    font-size: 65px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.top-banner p {
+    font-size: 20px;
+}
+
+.donate-btn {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, tomato, orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 700;
 }
