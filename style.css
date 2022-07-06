@@ -207,17 +207,6 @@ body {
 
 }
 
-#payment-method {
-    text-align: center;
-    padding: 5px;
-    border: 1px solid lightgray;
-    border-radius: 5px;
-    width: 50%;
-    margin: auto;
-    margin-bottom: 40px;
-    box-shadow: 10px 10px 10px lavender;
-}
-
 footer {
     background-color: black;
     margin: 0;
