@@ -120,6 +120,34 @@ body {
     background-color: lightgoldenrodyellow;
 }
 
+.extra-margin {
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 30%;
+    padding-right: 3%;
+}
+
+.half-width p {
+    text-align: justify;
+    color: #707070;
+    font-size: 18px;
+}
+
+.contribution-btn {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+.half-width img {
+    width: 100%;
+}
+
 .subscribe-container {
     text-align: center;
 }
