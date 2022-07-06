@@ -35,6 +35,7 @@ body {
 .donation-container {
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .donation-container h1 {
@@ -73,5 +74,65 @@ body {
     height: 50px;
     text-align: center;
     font-size: 15px;
+}
 
+.donation-plan {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.donation-plan h1 {
+    font-size: 45px;
+}
+
+.donation-plan p {
+    font-size: 18px;
+    color: #707070;
+}
+
+#planning {
+    margin-bottom: 50px;
+}
+
+.donation-wings {
+    width: 360px;
+    height: 360px;
+    /* background-color: #FF5959; */
+    border-radius: 10px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 50px;
+    margin-right: 40px;
+    box-shadow: 20px 20px 20px lightgrey;
+}
+
+#food-wing {
+    background-color: rgb(203, 230, 247);
+}
+
+#shelter-wing {
+    background-color: rgb(253, 206, 213);
+}
+
+#education-wing {
+    background-color: lightgoldenrodyellow;
+}
+
+footer {
+    background-color: black;
+    margin: 0;
+    height: 120px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+footer h2 {
+    font-family: 'Lobster', cursive;
+    color: #FF5959;
+}
+
+footer p {
+    color: lightgray;
 }
